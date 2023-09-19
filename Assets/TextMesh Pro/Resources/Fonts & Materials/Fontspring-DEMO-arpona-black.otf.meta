@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 44c9d5436279c3345baa3e66e0678b9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Arpona Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b264a16408303114a9662e74eb6e609d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

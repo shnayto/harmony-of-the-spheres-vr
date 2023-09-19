@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6df872b81018cb64c9d080e49af0d0c3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Arpona ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 84c5491bfcf715e40abe0f1e5316a3a6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

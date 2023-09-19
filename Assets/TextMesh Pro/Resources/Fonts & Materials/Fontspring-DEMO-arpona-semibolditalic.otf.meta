@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff1a9200aca64a54c8fb60cbefe14a76
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Arpona SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4ab736e7e704f864daf48fad2b4f0588, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

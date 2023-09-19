@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8f2fbf169a0a14c42b6d90e0e1dbd767
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FONTSPRING DEMO - Arpona
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2d252bdc32f17db4295d4579acc89b13, type: 3}
+  - {fileID: 12800000, guid: c2199969046da3b4980515796371b3ff, type: 3}
+  - {fileID: 12800000, guid: 624f3b32b4a696142841c3738d320fe5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
