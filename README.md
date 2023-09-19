@@ -6,11 +6,7 @@ This is the Unity project folder associated with this project, along with the ap
 _Video Links_
 
 Trailer: https://youtu.be/H7LWOuNtNYU 
-
 Gameplay Video: https://youtu.be/NzOS0muLajw
-
 Technical Video I - Environment and Interactions: https://youtu.be/8-biT_rkg4k
-
 Technical Video II - Sound Sampling and Synthesis: https://youtu.be/nwGnZzmspqU
-
 Technical Video III - FMOD Integration: https://youtu.be/JXS78nxGbWU
